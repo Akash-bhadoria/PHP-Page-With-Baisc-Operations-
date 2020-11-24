@@ -1,0 +1,26 @@
+
+.a{
+  font-family: Lucida;
+  font-style: oblique;
+  font-size: 60px;
+  margin-left: 80vh;
+}
+.b{
+  font-family: Lucida;
+  font-size: 20px;
+}
+.c{
+  font-family: Lucida;
+  font-style: oblique;
+  font-size: 40px;
+  text-align: center;
+}
+.v1 {
+  border-left: 3px solid black;
+  height: 850px;
+
+}
+.d{
+  font-family: Georgia;
+  text-align: center;
+}
